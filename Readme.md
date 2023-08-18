@@ -1,5 +1,6 @@
 ## ETL example
 
+<img width="330" alt="sq;" src="https://github.com/aliabbas30/Simple_ETL_Example/assets/102746791/88db1a14-997b-4bd4-86b1-7cb291f38cb4">
 
 
 ## Used Libraries
